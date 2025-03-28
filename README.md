@@ -108,4 +108,4 @@ This project is released under the MIT License. Please refer to the [LICENSE](LI
 
 ## Contact
 
-If you have questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/CHEperb/SBSP-PyPSA/issues) or email: **car0325jason@gmail.com**
+If you have questions or suggestions, feel free to reach out via email: **car0325jason@gmail.com**
