@@ -89,6 +89,8 @@ Clone the repository and install dependencies:
 git clone https://github.com/CHEperb/SBSP-PyPSA.git
 cd SBSP-PyPSA
 pip install -r requirements.txt
+```
+---
 
 ## License
 
