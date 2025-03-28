@@ -27,7 +27,7 @@ Original code developed for this study to simulate SBSP technology performance:
 ### `pypsa-eur/`
 A forked and lightly modified copy of the official [PyPSA-Eur](https://github.com/PyPSA/pypsa-eur) repository, which provides the core functionality for capacity expansion and dispatch modeling across Europe. All original credits go to the PyPSA-Eur developers. We use this base as the foundation for SBSP integration.
 
-- **Disclaimer:** Most code and data here are not original work. They are adapted from PyPSA-Eur v0.X to ensure compatibility with our SBSP extensions. In addition, some input data have been adjusted to reflect the specific requirements of our 2020 and 2050 scenario settings.
+- **Disclaimer:** Most code and data here are not original work. They are adapted from PyPSA-Eur v0.12.0 to ensure compatibility with our SBSP extensions. In addition, some input data have been adjusted to reflect the specific requirements of our 2020 and 2050 scenario settings.
 - If using this repository, please also follow [PyPSA-Eur’s license and citation instructions](https://github.com/PyPSA/pypsa-eur#license).
 
 ### `integration_optimization/`
@@ -89,3 +89,21 @@ Clone the repository and install dependencies:
 git clone https://github.com/CHEperb/SBSP-PyPSA.git
 cd SBSP-PyPSA
 pip install -r requirements.txt
+
+## License
+
+This project is released under the MIT License. Please refer to the [LICENSE](LICENSE) file for more information.
+
+---
+
+## Acknowledgements
+
+- This research builds on the outstanding work of the [PyPSA-Eur](https://github.com/PyPSA/pypsa-eur) community.
+- SBSP assumptions and projections are based on publicly available NASA reports and technical documentation, including the [2024 NASA SBSP Report](https://www.nasa.gov/wp-content/uploads/2024/01/otps-sbsp-report-final-tagged-approved-1-8-24-tagged-v2.pdf).
+- We thank all contributors, developers, and open-data providers whose work made this research possible.
+
+---
+
+## Contact
+
+If you have questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/CHEperb/SBSP-PyPSA/issues) or email: **car0325jason@gmail.com**
