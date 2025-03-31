@@ -109,3 +109,8 @@ This project is released under the MIT License. Please refer to the [LICENSE](LI
 ## Contact
 
 If you have questions or suggestions, feel free to reach out via email: **car0325jason@gmail.com**
+
+## Manuscript (Pre-submission version)
+
+- [Assessing SBSP in European Power System Decarbonization – submitted to *Joule*](SBSP_manuscript.pdf)
+- This version is shared for academic transparency only. Redistribution or citation without permission is not allowed.
