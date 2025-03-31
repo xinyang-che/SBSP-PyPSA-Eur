@@ -112,5 +112,5 @@ If you have questions or suggestions, feel free to reach out via email: **car032
 
 ## Manuscript (Pre-submission version)
 
-- [Assessing SBSP in European Power System Decarbonization – submitted to *Joule*](SBSP_manuscript.pdf)
+- [Assess Space-Based Solar Power in European-Scale Power System Decarbonization – submitted to *Joule*](SBSP_manuscript.pdf)
 - This version is shared for academic transparency only. Redistribution or citation without permission is not allowed.
