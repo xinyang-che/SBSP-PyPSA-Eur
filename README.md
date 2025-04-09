@@ -44,7 +44,7 @@ Scripts to integrate SBSP into the PyPSA-Eur model and run system-level optimiza
 
 Due to the size of raw input data (e.g., weather files, network shapefiles), we host key datasets on [Zenodo](https://zenodo.org/). Please download the data archive before running the full modeling pipeline.
 
-**Zenodo data archive:** [https://doi.org/10.5281/zenodo.XXXXX](https://doi.org/10.5281/zenodo.XXXXX)
+**Zenodo data archive:** [https://doi.org/10.5281/zenodo.15065847](https://doi.org/10.5281/zenodo.15065847)
 
 ### The dataset contains the following input data files:
 
