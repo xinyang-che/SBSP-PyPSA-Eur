@@ -2,7 +2,7 @@
 
 **Assess Space-Based Solar Power in European-Scale Power System Decarbonization**
 
-[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15065847.svg)](https://doi.org/10.5281/zenodo.15065847)
 
 ## Overview
 
@@ -10,9 +10,14 @@ This repository contains the code and data used in our research on integrating S
 
 We model SBSP generation profiles and costs, integrate them into the PyPSA-Eur framework, and perform multi-scenario optimization and sensitivity analyses. This work explores SBSP’s potential to complement terrestrial renewables and reduce system costs, storage needs, and intermittency issues in future decarbonized energy systems.
 
-> If you use this repository in your research, please cite our paper and/or reference this GitHub project. (DOI and citation will be added later.)
+> If you use this repository in your research, please cite our paper and/or reference this GitHub project:  
+> Che, X., Liu, L., & He, W. (2025). *Assess Space-Based Solar Power in European-Scale Power System Decarbonization*. arXiv:2504.05052. https://arxiv.org/abs/2504.05052  
+> DOI: [10.5281/zenodo.15065847](https://doi.org/10.5281/zenodo.15065847)
 
 ---
+
+## Manuscript  
+Assess Space-Based Solar Power in European-Scale Power System Decarbonization – available on [arXiv]([https://arxiv.org/abs/2504.05052])
 
 ## Repository Structure
 
@@ -109,8 +114,3 @@ This project is released under the MIT License. Please refer to the [LICENSE](LI
 ## Contact
 
 If you have questions or suggestions, feel free to reach out via email: **car0325jason@gmail.com**
-
-## Manuscript (Pre-submission version)
-
-- [Assess Space-Based Solar Power in European-Scale Power System Decarbonization – submitted to *Joule*](SBSP_manuscript.pdf)
-- This version is shared for academic transparency only. Redistribution or citation without permission is not allowed.
