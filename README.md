@@ -16,9 +16,6 @@ We model SBSP generation profiles and costs, integrate them into the PyPSA-Eur f
 
 ---
 
-## Manuscript  
-Assess Space-Based Solar Power in European-Scale Power System Decarbonization – available on [arXiv]([https://arxiv.org/abs/2504.05052])
-
 ## Repository Structure
 
 The repository consists of three main components:
