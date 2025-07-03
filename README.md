@@ -80,6 +80,7 @@ For example, in the folder `2050_RD1_267869` (2050 scenario with RD1 at 267,869 
 - `sbsp_rd1_p_nom_opt_results.csv`: Optimized installed SBSP capacity per node (in MW).
 
 Each scenario folder follows the same naming convention and structure, allowing comparative analysis across years and cost assumptions.
+Capital cost actually means annual fixed cost (EUR/MW-year) in this study.
 
 ---
 
