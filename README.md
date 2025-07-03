@@ -1,6 +1,6 @@
 # SBSP-PyPSA-Eur
 
-**Assess Space-Based Solar Power in European-Scale Power System Decarbonization**
+**Assess Space-Based Solar Power for European-Scale Power System Decarbonization**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15065847.svg)](https://doi.org/10.5281/zenodo.15065847)
 
