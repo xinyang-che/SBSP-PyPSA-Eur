@@ -88,8 +88,8 @@ Each scenario folder follows the same naming convention and structure, allowing 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/CHEperb/SBSP-PyPSA.git
-cd SBSP-PyPSA
+git clone https://github.com/xinyang-che/SBSP-PyPSA-Eur.git
+cd SBSP-PyPSA-Eur
 pip install -r requirements.txt
 ```
 ---
