@@ -1,4 +1,4 @@
-# SBSP-PyPSA
+# SBSP-PyPSA-Eur
 
 **Assess Space-Based Solar Power in European-Scale Power System Decarbonization**
 
